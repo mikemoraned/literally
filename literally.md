@@ -83,6 +83,6 @@ History of English spelling. Whatever you may think makes sense … was likely a
 
 # More on this …
 
-![left, fit](evolution.jpg)
+![left, fit](grooming.jpg)
 
-Speaking as “grooming”.
+* ["Grooming, Gossip and the Evolution of Language"](https://www.amazon.co.uk/Grooming-Gossip-Evolution-Language-Professor/dp/0571173977) by Robin Dunbar: Speaking as “grooming”.
