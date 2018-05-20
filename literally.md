@@ -61,7 +61,7 @@ Which of these is the odd one out?
 
 # What does this mean for our usage?
 
-> “be conservative in what you do, be liberal in what you accept from others.” — Postel’s Law
+> “be conservative in what you do, be liberal in what you accept from others.” — [Postel’s Law](https://en.wikipedia.org/wiki/Robustness_principle)
 
 ---
 
@@ -69,7 +69,9 @@ Which of these is the odd one out?
 
 ![left, fit](wotm.jpg)
 
-Covers everything mentioned here
+* ["Words on the Move: Why English Won't - And Can't - Sit Still (Like, Literally)"](https://www.amazon.co.uk/Words-Move-English-Still-Literally/dp/1250143780)
+* Covers everything mentioned here
+* [Excerpt](https://www.thedailybeast.com/how-english-got-up-close-and-personal) also available
 
 ---
 
@@ -77,7 +79,9 @@ Covers everything mentioned here
 
 ![right, fit](spellitout.jpg)
 
-History of English spelling. Whatever you may think makes sense … was likely an accident.
+* ["Spell It Out: The singular story of English spelling"](https://www.amazon.co.uk/Spell-Out-singular-English-spelling/dp/1846685680) by David Crystal
+* Cover History of English spelling. Whatever you may think makes sense … was likely an accident.
+* If you are interested in straightforward explanations of language topics then anything by David Crystal is really good
 
 ---
 
@@ -85,4 +89,5 @@ History of English spelling. Whatever you may think makes sense … was likely a
 
 ![left, fit](grooming.jpg)
 
-* ["Grooming, Gossip and the Evolution of Language"](https://www.amazon.co.uk/Grooming-Gossip-Evolution-Language-Professor/dp/0571173977) by Robin Dunbar: Speaking as “grooming”.
+* ["Grooming, Gossip and the Evolution of Language"](https://www.amazon.co.uk/Grooming-Gossip-Evolution-Language-Professor/dp/0571173977) by Robin Dunbar
+* Speaking as “grooming”.
